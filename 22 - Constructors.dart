@@ -6,7 +6,7 @@ void main(){
 
 var student1 =  new Student(30, 1001);
 print(student1.age);
-var student2 =  new Student.myCustomeConstructor();
+
 // print(student2.age);
 
 var student3 =  new Student.myAnotherConstructor(3, 40);
